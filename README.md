@@ -40,7 +40,7 @@ for i in range(num):
     
 `
 
-![Image-results](https://github.com/adilkhan49/face_recognition/faces.png)
+![Image-results](https://github.com/adilkhan49/face_recognition/blob/master/faces.png)
 
 
 
